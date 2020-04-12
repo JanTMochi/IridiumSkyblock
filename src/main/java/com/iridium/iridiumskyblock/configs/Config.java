@@ -35,7 +35,7 @@ public class Config {
     public boolean disablePvPOnIslands = true;
     public int blocksPerTick = 25;
     public int deleteBackupsAfterDays = 7;
-    public int regenCooldown = 3600;
+    public int regenCooldown = 300;
     public int distance = 151;
     public int backupIntervalMinutes = 60;
     public double valuePerLevel = 100.00;
